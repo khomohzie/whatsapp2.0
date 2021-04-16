@@ -16,7 +16,7 @@ const Login = () => {
             </Head>
 
             <LoginContainer>
-                <Logo src="https://assets.stickpng.com/images/5a019b697ca233f48ba6275a.png" alt="logo" />
+                <Logo src="/logo.png" alt="logo" />
                 <Button onClick={signIn} variant="outlined">Sign in with Google</Button>
             </LoginContainer>
         </Container>

@@ -5,7 +5,7 @@ const Loading = () => {
         <center style={{ display: "grid", placeItems: "center", height: "100vh" }}>
             <div>
                 <img
-                    src="https://assets.stickpng.com/images/5a019b697ca233f48ba6275a.png"
+                    src="/logo.png"
                     alt="logo"
                     style={{ marginBottom: 10 }}
                     height={200}
